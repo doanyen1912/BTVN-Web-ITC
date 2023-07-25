@@ -1,0 +1,25 @@
+#title{
+    corlor : pink;
+}
+.title {
+    color : blue!important;
+}
+.title p{
+    font-size: 2rem;
+}
+
+.navbar{
+height: 40px;
+background-color:#2657af ;
+color: #fff;
+}
+.navbar .menu{
+    list-style-type: none;
+    
+}
+.navbar .menu li{
+    float: left;
+    margin:0px  4px 0 4px;
+    
+
+}
